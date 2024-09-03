@@ -136,14 +136,14 @@ h2 {
 }
 
 .skill img {
-  height: 50px;
+  height: 80px;
   align-items: center;
 }
 
 .skills h6 {
   align-items: center;
-  font-size: 35px;
-  margin-block-start: 8px;
+  font-size: 50px;
+  margin-block-start: 5px;
   margin-block-end: 5px;
   font-weight: bold;
 } 
